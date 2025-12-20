@@ -1,4 +1,5 @@
 geogame ve pikamed uygulamaların api serverleri çalışması için .env dosyasının doldurulması gerekmektedir
+artık kullanılmıyor direk supabase kullanılıyor
 
 Örnek ENV:
 
